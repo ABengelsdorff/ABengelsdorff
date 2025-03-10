@@ -38,6 +38,8 @@ Algunas de las tecnologías con las que trabajo regularmente:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloudinary-FEFEFE?style=for-the-badge&logo=cloudinary&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
 </p>
 
 ## 📫 Conéctate conmigo
@@ -47,6 +49,7 @@ Algunas de las tecnologías con las que trabajo regularmente:
 
 ---
 ⭐ ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contáctame si tienes alguna pregunta o colaboración en mente. 🚀
+
 
 
 
