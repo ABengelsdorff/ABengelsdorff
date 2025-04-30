@@ -30,7 +30,9 @@ Algunas de las tecnologías con las que trabajo regularmente:
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeORM-ff4c00?style=for-the-badge&logo=typeorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
 
 ### 🔧 **Herramientas & Otras Tecnologías**
 <p>
@@ -40,12 +42,15 @@ Algunas de las tecnologías con las que trabajo regularmente:
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 </p>
+
 
 ## 📫 Conéctate conmigo
 
 - 📩 **Email:** [angelica.bengelsdorff.5@gmail.com](mailto:angelica.bengelsdorff.5@gmail.com)
 - 💼 **LinkedIn:** [www.linkedin.com/in/angelica-bengelsdorff](https://www.linkedin.com/in/angelica-bengelsdorff)
+- 🌐 Portafolio: [portafolio-bengelsdorff.vercel.app](https://portafolio-bengelsdorff.vercel.app/)
 
 ---
 ⭐ ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contáctame si tienes alguna pregunta o colaboración en mente. 🚀
