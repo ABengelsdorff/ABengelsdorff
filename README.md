@@ -50,7 +50,7 @@ Algunas de las tecnologías con las que trabajo regularmente:
 
 - 📩 **Email:** [angelica.bengelsdorff.5@gmail.com](mailto:angelica.bengelsdorff.5@gmail.com)
 - 💼 **LinkedIn:** [www.linkedin.com/in/angelica-bengelsdorff](https://www.linkedin.com/in/angelica-bengelsdorff)
-- 🌐 Portafolio: [portafolio-bengelsdorff.vercel.app](https://portafolio-bengelsdorff.vercel.app/)
+- 🌐 Portafolio: [bengelsdorff.dev](https://www.bengelsdorff.dev/)
 
 ---
 ⭐ ¡Gracias por visitar mi perfil! No dudes en explorar mis proyectos y contáctame si tienes alguna pregunta o colaboración en mente. 🚀
